@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AuraWalls</string>
+    <string name="curated_wallpapers">Curated Wallpapers</string>
+    <string name="categories">Categories</string>
+    <string name="set_as_home_screen">Home screen</string>
+    <string name="set_as_lock_screen">Lock screen</string>
+    <string name="set_as_home_and_lock_screen">Home and Lock screens</string>
+    <string name="popular_videos">Popular Videos</string>
+    <string name="wallpaper_set">Wallpaper set on Home and Lock screens</string>
+    <string name="all_categories">All Categories</string>
+    <string name="bio_placeholder_text">Share a bit about yourself so we can personalize your experience...</string>
+    <string name="first_name_label">First name</string>
+    <string name="last_name_label">Last name</string>
+    <string name="email_label">Email address</string>
+    <string name="google_icon_content_desc">Google sign-in button</string>
+    <string name="signin_with_google_btn_text">Continue with Google</string>
+</resources>
